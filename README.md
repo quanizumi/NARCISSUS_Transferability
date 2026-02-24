@@ -2,7 +2,7 @@
 
 该实验是基于论文NARCISSUS : A Practical Clean-Label Backdoor Attack with Limited Information，选择了 "NARCISSUS触发器跨架构可转移性研究" 作为延伸方向
 
-本仓库是华南师范大学计算机学院智能系统与防护课程设计作业，版权所有者为23级廖镇泉 章鸿辉
+本仓库是华南师范大学计算机学院智能系统与防护课程设计作业，版权所有者为23级廖镇泉 章鸿辉 曾翔
 
 # 摘要
 
